@@ -1,13 +1,22 @@
+# A![logo-adventure-works](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/77212617-eaae-4fd6-aea4-b19cf96885bb)
 
-# Adventure Works Data Analysis Project
+## Adventure Works Data Analysis Project
 
 ## Introduction
 
 Welcome to the Adventure Works Data Analysis project, a comprehensive exploration of data-driven insights aimed at optimizing operations and driving informed decision-making. Adventure Works, a fictional company, serves as the backdrop for this analysis, encompassing a diverse product line, global customer base, and various operational facets.
 
 ## Problem Statement
+Adventure Works is encountering several critical challenges, including:
 
-Adventure Works faces critical challenges, including optimizing sales channels, evaluating product performance, understanding customer behavior, and analyzing sales trends. This project addresses these challenges through advanced data analysis techniques.
+Sales Channel Optimization: How can Adventure Works boost its sales revenue by identifying sales channel(s)?
+
+Product Performance: Are there underperforming products or categories that need attention or should be discontinued?
+
+Customer Performance: Which regions and customers have high or low sales?
+
+Sales Performance: The sales manager reported a tremendous increase in 2019 sales. Can we see if there’s a wide divergence in sales between 2019 and the previous year?
+
 
 ## Skills Demonstrated
 
@@ -38,12 +47,11 @@ Prior to analysis, data preparation involved addressing quality issues such as m
 ## Data Modeling
 
 The relationship diagram illustrates the interconnectedness of various data sources and tables within the Adventure Works dataset, forming the foundation for analysis and modeling.
-
-![Data Model Diagram](link_to_data_model_diagram)
+![image](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/b207c731-9926-411c-8855-31b525f251fc)
 
 ## Analysis/Visualization
 
-Explore the interactive dashboard [here](link_to_dashboard). Key aspects covered include:
+Explore the interactive dashboard. Key aspects covered include:
 
 1. **Sales Overview:** KPIs, regional sales distribution, and profit analysis.
 2. **Product Performance:** Average product cost, unsold products, and top-selling products.
@@ -51,6 +59,11 @@ Explore the interactive dashboard [here](link_to_dashboard). Key aspects covered
 4. **Customer History:** Customer acquisition and loss analysis.
 5. **Regional Performance:** Sales distribution across countries and continents.
 6. **2019 vs Previous Year Sales:** Divergence analysis for sales performance.
+![image](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/09ece103-bb53-4750-a6cb-b647056c32ea)
+![image](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/098e040b-a8cb-4b30-9bd6-c0d9c84e8ac3)
+![image](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/a2814692-cb63-49be-93fd-fc860b7014a9)
+![image](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/6a7e4424-e445-4b11-9ed8-172d5b7ba356)
+
 
 ## Key Findings/Insights
 
