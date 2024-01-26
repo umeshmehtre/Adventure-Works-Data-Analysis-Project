@@ -1,4 +1,4 @@
-# A![logo-adventure-works](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/77212617-eaae-4fd6-aea4-b19cf96885bb)
+# ![logo-adventure-works](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/77212617-eaae-4fd6-aea4-b19cf96885bb)
 
 ## Adventure Works Data Analysis Project
 
@@ -7,6 +7,7 @@
 Welcome to the Adventure Works Data Analysis project, a comprehensive exploration of data-driven insights aimed at optimizing operations and driving informed decision-making. Adventure Works, a fictional company, serves as the backdrop for this analysis, encompassing a diverse product line, global customer base, and various operational facets.
 
 ## Problem Statement
+
 Adventure Works is encountering several critical challenges, including:
 
 Sales Channel Optimization: How can Adventure Works boost its sales revenue by identifying sales channel(s)?
@@ -38,8 +39,6 @@ The analysis is rooted in the Adventure Works dataset, a comprehensive source co
 - Sales Territory Data
 - Reseller Data
 
-For access to the dataset used in this project, [click here](link_to_dataset).
-
 ## Data Transformation
 
 Prior to analysis, data preparation involved addressing quality issues such as missing values, duplicates, and irrelevant information. SQL was used for data cleaning, including replacing missing values and removing redundant rows and columns.
@@ -59,9 +58,13 @@ Explore the interactive dashboard. Key aspects covered include:
 4. **Customer History:** Customer acquisition and loss analysis.
 5. **Regional Performance:** Sales distribution across countries and continents.
 6. **2019 vs Previous Year Sales:** Divergence analysis for sales performance.
+
 ![image](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/09ece103-bb53-4750-a6cb-b647056c32ea)
+
 ![image](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/098e040b-a8cb-4b30-9bd6-c0d9c84e8ac3)
+
 ![image](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/a2814692-cb63-49be-93fd-fc860b7014a9)
+
 ![image](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/6a7e4424-e445-4b11-9ed8-172d5b7ba356)
 
 
