@@ -1,6 +1,6 @@
 # ![logo-adventure-works](https://github.com/umeshmehtre/Adventure-Works-Data-Analysis-Project/assets/154005363/77212617-eaae-4fd6-aea4-b19cf96885bb)
 
-## Adventure Works Data Analysis Project
+## Adventure Works Data Analysis using Microsoft PowerBI
 
 ## Introduction
 
